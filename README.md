@@ -8,15 +8,25 @@ How to run the project locally:
 
 ```bash
 cd client
+```
 
+```bash
 pnpm install
+```
 
+```bash
 pnpm dev
+```
 
+```bash
 cd ../server
+```
 
+```bash
 pnpm install
+```
 
+```bash
 pnpm dev
 ```
 
