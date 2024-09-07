@@ -1,0 +1,9 @@
+/client/node_modules
+/client/.next
+/client/.vercel
+
+/server/node_modules
+/server/build
+/server/.gitignore
+/server/.env
+run.sh
